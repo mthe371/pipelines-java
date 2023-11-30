@@ -1,3 +1,4 @@
+[![Build Status](https://incontrol-tfs.visualstudio.com/Example%20project/_apis/build/status%2Fmthe371.pipelines-java?branchName=main)](https://incontrol-tfs.visualstudio.com/Example%20project/_build/latest?definitionId=361&branchName=main)
 
 # Contributing
 
